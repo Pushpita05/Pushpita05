@@ -34,7 +34,7 @@ I am an undergraduate Computer science and Engineering student at SRMIST-Chennai
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-<h2>👀 My Github Stats</h2>
+<h2>👀 My Github Stats:</h2>
 
 <div>
   
@@ -42,9 +42,17 @@ I am an undergraduate Computer science and Engineering student at SRMIST-Chennai
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpita05" alt="GitHub Stats" /> <br/><br/>
   
+
+
+![My github status](https://github-readme-stats.vercel.app/api?username=pushpita05&show_icons=true&include_all_commits=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpita05&layout=compact)
+
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=pushpita05&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpita05&layout=compact)
+ 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pushpita05&theme=nord&column=7)](https://github.com/pushpita05/github-profile-trophy)
+
 
 ---------------------------------------------------------------------------------------------------------------------
