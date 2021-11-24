@@ -40,13 +40,18 @@ I am an undergraduate Computer science and Engineering student at SRMIST-Chennai
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpita05" alt="GitHub Stats" /> <br/><br/>
-  
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpita05" alt="GitHub Streak" /> <br/><br/>
+  </p>
+  <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=pushpita05&show_icons=true&include_all_commits=true" alt="My GitHub Stats" /> <br/><br/>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpita05&layout=compact" alt="Top langs" /> <br/><br/>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=pushpita05&show_icons=true&include_all_commits=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Old Widgets -->
+<!-- ![My github status](https://github-readme-stats.vercel.app/api?username=pushpita05&show_icons=true&include_all_commits=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpita05&layout=compact)
-
+ -->
 </div>
 
  
